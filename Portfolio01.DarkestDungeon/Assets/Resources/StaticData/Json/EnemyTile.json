@@ -1,0 +1,23 @@
+﻿[
+  {
+    "index": 100000,
+    "dungeonlevel": 1,
+    "enemyArray": [
+      10000,
+      10000,
+      10000
+    ],
+    "surprise": 10
+  },
+  {
+    "index": 100001,
+    "dungeonlevel": 1,
+    "enemyArray": [
+      10000,
+      10000,
+      10000,
+      10000
+    ],
+    "surprise": 10
+  }
+]

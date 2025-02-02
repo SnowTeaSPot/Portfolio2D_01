@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerController
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Character
+  - Enemy
+  - Ground
+  - Door
+  - Accessible
+  - Trap
+  - EnemyTile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2948119675
+    locked: 0
+  - name: Architecture
+    uniqueID: 948393097
+    locked: 0
+  - name: Actor
+    uniqueID: 345777235
+    locked: 0
+  - name: FrontGround
+    uniqueID: 1929616563
+    locked: 0
+  - name: FirstUI
+    uniqueID: 838559937
+    locked: 0

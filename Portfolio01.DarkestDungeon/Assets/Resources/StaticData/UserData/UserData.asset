@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ece576165051374489bf9eb0b6a1fd1d, type: 3}
+  m_Name: UserData
+  m_EditorClassIdentifier: 
+  nickName: Test
+  lastPos: {x: 30, y: 0, z: 0}
+  lastStageIndex: 1003
+  lastpossessionHero: []
+  bust: 50
+  portrait: 30
+  bond: 2
+  emblem: 33
+  fragment: 22
+  gold: 10

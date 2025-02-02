@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0b855320fb7850438124d38367b8278, type: 3}
+  m_Name: Bone Soldier
+  m_EditorClassIdentifier: 
+  index: 10000
+  nickName: Bone Soldier
+  maxHp: 10
+  resourcePath: Prefabs/Actor/Bone Soldier
+  speed: 2
+  evade: 0
+  defPer: 15
+  accuracyCorrect: 0
+  critical: 0
+  stunresist: 25
+  addictedresist: 15
+  bleedingresist: 200
+  weakeningResist: 15
+  movingresist: 20
+  level: 0
+  tribe: 2

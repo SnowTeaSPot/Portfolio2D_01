@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ccb094ab6582de49b76c88605be1ab5, type: 3}
+  m_Name: Crusader
+  m_EditorClassIdentifier: 
+  index: 0
+  nickName: Crusader
+  maxHp: 33
+  resourcePath: Prefabs/Actor/Crusader
+  speed: 1
+  evade: 5
+  defPer: 0
+  accuracyCorrect: 0
+  critical: 0
+  stunresist: 40
+  addictedresist: 30
+  bleedingresist: 30
+  weakeningResist: 30
+  movingresist: 40
+  level: 0
+  job: Crusader
+  maxStress: 200
+  hungry: 100
+  deathResist: 67
+  diseaseResist: 30
+  trapDisarm: 10
+  minATK: 6
+  maxATK: 12
